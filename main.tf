@@ -23,7 +23,8 @@ data "newrelic_entity" "todo_app" {
   name = "flask-todo-app"
   domain = var.domain 
   type = var.type
-} */
+} 
+*/
 
 /*
 #Use this resource to create, update, and delete tags for a New Relic One entity.
